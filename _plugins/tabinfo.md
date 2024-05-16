@@ -30,11 +30,11 @@ tags:
 - overview
 
 screenshots:
-- url: https://github.com/dakhnod/OctoPrint-TabInfo/assets/26143255/0cfb75bb-41e6-4b7e-94f7-dc35010727c5
+- url: /assets/img/plugins/tabinfo/banner.png
   alt: plugin preview in browser
   caption: plugin preview in browser
 
-featuredimage: https://github.com/dakhnod/OctoPrint-TabInfo/assets/26143255/0cfb75bb-41e6-4b7e-94f7-dc35010727c5
+featuredimage: /assets/img/plugins/tabinfo/banner.png
 
 compatibility:
   python: ">=2.7,>=3" # Python 2 & 3
