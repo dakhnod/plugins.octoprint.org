@@ -36,7 +36,7 @@ screenshots:
 
 featuredimage: https://github.com/dakhnod/OctoPrint-TabInfo/assets/26143255/0cfb75bb-41e6-4b7e-94f7-dc35010727c5
 
-compatibilty:
+compatibility:
   python: ">=2.7,<3" # Python 2 & 3
 
 ---
